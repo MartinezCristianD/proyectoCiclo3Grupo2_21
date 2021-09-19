@@ -5,56 +5,93 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>almacen de materiales</title>
-    <link rel="stylesheet" href="/index.css">
+    <title>Almacen de Materiales</title>
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
 </head>
 
 <body>
-    <section class="seccion-1">
+    <main>
+        <header class="header">
+                <picture class="header__logo">
+                    <img src="Img/Page_2.png" alt="Logo de la empresa">
+                </picture>
+                <h1>ALMACEN DE MATERIALES</h1>
+        </header>
 
-        <div class="seccion-1"><img class="imagen1" src="/Img/Page_2.png" alt=""></div>
-        <div class="titulo"></div>
-        <h1>ALMACEN DE MATERIALES</h1>
-        </div>
+        <picture class="imagen-divisoria">
+            <img src="Img/Page_1.png" alt="Imagen divisoria">
+        </picture>
 
-    </section>
+        <section class="banner">
+            <h2>Confianza  ---  Seguridad  ---  Agilidad</h2>
+        </section>
 
-    <div class="seccion-2">
-        <img class="imagen2" src="/Img/Page_1.png" alt="img almacen">
-    </div>
+        <section class="informativo">
+            <picture class="informativo__image">
+                <img src="Img/WhatsApp Image 2021-09-19 at 12.10.18 AM.jpeg" alt="Imagen de referencia para una construcción">
+            </picture>
+            <article class="informativo__textos">
+                <p>Sabía que muchas de las pérdidas en los proyectos son asociadas a el mal manejo de inventario.</p>
+                <p class="informativo__nombre-empresa">ALMACEN DE MATERIALES</p>
+                <p>Nos encargamos de facilitar la administración de sus artículos y materiales durante la realización de su proyecto.</p>
+            </article>
+        </section>
 
-    <section class="seccion-3">
-        <form class="Login">
-            <!-- Username -->
-            <label for="name"></label>
-            <input type="name" placeholder="Ingrese su usuario">
+        <section class="descripcion">
+            <p>Almacén de Materiales se desarrolla con el fin de garantizar confiabilidad de forma práctica al momento de gestionar el inventario de sus materiales.</p>
+            <p>Por medio de nuestro servicio web logrará gestionar el inventario de los materiales dentro de su almacén; gestionando informes de estado desde cualquier lugar del mundo.</p>    
+        </section>
 
-            <!-- Password -->
-            <label for="username"></label>
+        <section class="registro">
+            <div>
+                <picture>
+                <img src="Img/WhatsApp Image 2021-09-19 at 12.09.55 AM.jpeg" alt="Imagen de referencia">
+                <img src="Img/WhatsApp Image 2021-09-19 at 12.09.54 AM.jpeg" alt="Imagen de referencia">
+                <img src="Img/WhatsApp Image 2021-09-19 at 12.09.55 AM (2).jpeg" alt="Imagen de referencia">
+                </picture>
+                <form class="registro__formulario">
+                    <label for="email"></label>
+                    <input type="email" placeholder="Ingrese Su Correo Electrónico">
 
-            <input type="password" placeholder="Ingrese su contraseña">
-            <!-- Submit Button -->
-            <input type="submit" value="ACCEDE AL SISTEMA">
+                    <button type="submit">Prueba Gratuita</button>
 
-            <p><a href="#">Forgot your password?</a>
+                    <a href="#">Términos y Condiciones</a>
 
-            <div id="lower">
-
-                <input type="checkbox"><label class="check" for="checkbox">Mantender conectado</label>
+                    <div>
+                        <input type="checkbox">
+                        <label class="check" for="checkbox">Mantener conectado</label>
+                    </div>
+                </form>
             </div>
-        </form>
-    
-        
+            <article class="registro__texto">
+                <p>Ingrese a nuestra plataforma para realizar una prueba totalmente gratuita y compruebe la agilidad y practicidad brindada por</p>
+                <p>Almacén de Materiales</p>
+                <picture>
+                    <img src="Img/Page_2.png" alt="Logo de la empresa">
+                </picture>
+            </article>
+        </section>
 
-        <div class="texto-1">
-            <p>Almacén de Materiales se desarrolla con el fin de garantizar confiabilidad de forma practica al momento de gestionar el inventario de sus materiales.</p>
-
-            <p>Por medio de nuestro servicio web lograra gestionar el inventario de los materiales dentro de su almacén; Gestionando informes de estado desde cualquier lugar del mundo.
-            </p>
-        </div>
-    </section>
-
-    <footer></footer>
+        <footer class="footer">
+            <div class="footer__contenido">
+                <picture class="footer__contacto-image">
+                    <img src="Img/WhatsApp Image 2021-09-19 at 12.10.18 AM (1).jpeg" alt="Imagen de referencia para mensajería">
+                </picture>
+                <div>
+                    <p>Contáctenos por correo electrónico</p>
+                    <a href="mailto:AlmacénDeMateriales@aldem.com.co">AlmacénDeMateriales@aldem.com.co</a>
+                </div>
+            </div>
+            <div class="footer__contenido">
+                <picture class="footer__mapa-image">
+                    <img src="Img/WhatsApp Image 2021-09-19 at 12.10.18 AM (2).jpeg" alt="Imagen de referencia para mapas">
+                </picture>
+                <p>Colombia / Risaralda / Pereira</p>
+            </div>
+        </footer>
+    </main>
 </body>
 
 </html>
