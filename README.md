@@ -49,3 +49,9 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Licencia) 
+
+##ScreenShot
+
+
+
+ ![MVVM](https://github.com/MartinezCristianD/proyectoCiclo3Grupo2_21/blob/feature/-implementacion-de-interfases/Img/screenshot.png)
