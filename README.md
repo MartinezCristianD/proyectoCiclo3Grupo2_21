@@ -36,21 +36,18 @@ En este repositorio no se permiten las contribuciones ya que es un repositorio c
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **ANDRES PAREDES** -  - [Andres Paredes ](https://github.com/AparedezO)
 * **KATERINE MARTINEZ** -  - [Katerine Martinez](https://lp.kate@gmail.com)
 * **SEBASTIAN GRISALES** -  - [Sebastian Grisales](https://github.com/Sebasdps)
 * **CARLOS PAREDES** -  - [Carlos Paredes](https://github.com/clopp)
-* **CRISTIAN MARTINEZ** -  - [Cristian Martinez](https://github.com/clopp)
+* **CRISTIAN MARTINEZ** -  - [Cristian Martinez](https://github.com/MartinezCristianD)
 
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Licencia) 
 
-##ScreenShot
-
+## ScreenShot
 
 
  ![MVVM](https://github.com/MartinezCristianD/proyectoCiclo3Grupo2_21/blob/feature/-implementacion-de-interfases/Img/screenshot.png)
