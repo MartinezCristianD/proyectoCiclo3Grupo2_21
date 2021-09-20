@@ -50,4 +50,4 @@ Este proyecto está bajo la Licencia (Licencia)
 ## ScreenShot
 
 
- ![MVVM](https://github.com/MartinezCristianD/proyectoCiclo3Grupo2_21/blob/feature/-implementacion-de-interfases/Img/screenshot.png)
+ ![MVVM](https://github.com/MartinezCristianD/proyectoCiclo3Grupo2_21/blob/main/Img/screenshot.png)
