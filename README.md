@@ -38,7 +38,7 @@ En este repositorio no se permiten las contribuciones ya que es un repositorio c
 
 * **ANDRES PAREDES** -  - [Andres Paredes ](https://github.com/AparedezO)
 * **KATERINE MARTINEZ** -  - [Katerine Martinez](https://lp.kate@gmail.com)
-* **SEBASTIAN GRISALES** -  - [Sebastian Grisales](https://github.com/Sebasdps)
+
 * **CARLOS PAREDES** -  - [Carlos Paredes](https://github.com/clopp)
 * **CRISTIAN MARTINEZ** -  - [Cristian Martinez](https://github.com/MartinezCristianD)
 
